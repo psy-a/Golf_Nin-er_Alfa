@@ -1,0 +1,78 @@
+
+.nav>a{
+ color: #F1FAEE;
+}
+.top{
+    background-color:#E63946 ;
+    height: 61px;
+    
+}
+
+.nav{
+  
+   
+    padding: 14px 16px;
+    font-size: 17px;
+    float: right;
+       
+}
+.image1{
+  background-image: url(images/trainflight.jpg);
+  height: 609px;
+    
+}h1{
+    padding-left: 152px;
+    font-size: 30px;
+    font-style: bold;
+}
+.button{
+    display: flex;
+    padding-left: 179px;
+    padding-right: 179px;
+    height: 50px;
+    padding-bottom: 20px;
+   
+   
+}
+.bgred{
+    background-color: #E63946;
+    width: 270px;
+    font-size: 30px;
+}
+.bgblue{
+    background-color: #457B9D;
+    width: 270px;
+    font-size: 30px;
+}
+.background{
+    padding: 0px 154px 0px 154px;
+   
+}
+.myride{ 
+   
+    
+    background-color: #F1FAEE;
+    height: 313px;
+   
+   
+}
+.row{
+    display:flex ;
+    justify-content: space-around;
+}
+.row>p{
+    border-left: 1px solid #A8DADC;
+    color: #1D3557
+    ;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+}
+.h3{
+    background-color: #E63946;
+    text-align: center;
+    align-items: center;
+}
+.findmyride
