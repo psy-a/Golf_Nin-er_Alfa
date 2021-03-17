@@ -9,7 +9,7 @@ If not, you can install git with the following command in your terminal; '$ sudo
 ## Setup/Installation Requirements
 To access this project on your local files, you can clone it using these steps.
 * Open your terminal.
-* Use this command to clone `$ git clone https://psy-a.github.io/Anitas-Kitchen'.
+* Use this command to clone `$ git clone https://psy-a.github.io/Golf_Nin-er_Alfa.
 * This will clone the repositoty into your local folder.
 * Enjoy.
 ## Known Bugs
@@ -19,6 +19,6 @@ There are no known bugs at this moment.
 2. CSS
 3. GIT
 ### Live Site
-View [live](https://psy-a.github.io/Anitas-Kitchen/)
+View [live](https://psy-a.github.io/Golf_Nin-er_Alfa/)
 ## Support and contact details
 For any questions, suggestions, contribution or assistance, reach us on psyfi488@gmail.com
