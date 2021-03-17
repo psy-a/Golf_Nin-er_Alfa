@@ -1,11 +1,11 @@
-.nav>ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding-left: 589px;
-    padding-right: 0px;
-    position: relative;
-    top: 20px;
+.nav>a{
+    color: #F1FAEE;
+    padding: 18px;
+   }
+.nav{
+    padding: 14px 16px;
+    font-size: 17px;
+    float: right;
     
    
 }
