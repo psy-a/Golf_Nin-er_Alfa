@@ -1,0 +1,223 @@
+
+.nav>a{
+ color: #F1FAEE;
+ padding: 18px;
+}
+.top{
+    background-color:#E63946 ;
+    height: 61px;
+    
+}
+
+.nav{
+  
+   
+    padding: 14px 16px;
+    font-size: 17px;
+    float: right;
+       
+}
+.imagebg{
+  background-image: url(images/trainflight.jpg);
+  height: 609px;
+  width: 100%;
+    
+}h1{
+    padding-left: 152px;
+    font-size: 30px;
+    font-style: bold;
+}
+.button{
+    display: flex;
+    padding-left: 179px;
+    padding-right: 179px;
+    height: 50px;
+    
+   
+   
+}
+.bgred{
+    background-color: #E63946;
+    width: 270px;
+    font-size: 30px;
+}
+.bgblue{
+    background-color: #457B9D;
+    width: 270px;
+    font-size: 30px;
+}
+.background{
+    padding: 0px 154px 0px 154px;
+   
+}
+.myride{ 
+    
+    background-color: #F1FAEE;
+    height: 313px;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+}
+.one>p{
+    font-size: 24px;
+}
+.two{
+    display:flex ;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+.two>p{
+    border-left: 1px solid #A8DADC;
+    color: #1D3557;
+    font-size: 18px;
+    
+}
+
+.findmyride>h3{
+    text-align: center;
+   
+}
+.findmyride{
+    border-radius: 30px;
+}
+
+.findmyride{
+    background-color: #E63946;
+    text-align: center;
+    align-items: center;
+    width: 317px;
+  
+    position: relative;
+    left: 380px;
+    height: 55px;
+    font-size: 32px;
+    vertical-align: middle;
+    line-height: 50px;
+
+}
+.myride>input{
+    color: #457B9D;
+}
+.circle{
+    position: relative;
+    top: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #E63946;
+    height: 80px;
+    padding-top: 30px;
+}
+.footer>p{
+    color: #F1FAEE ;
+}
+.placestovisit {
+    color: #1d3557;
+    font-size: 36px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    margin-top: 60px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+  }
+  .mainbox {
+    background-color: #a8dadc;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    height: 328px;
+    justify-content: space-around;
+    margin-bottom: 45px;
+  }
+  .departure,
+  .return {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #f1faee;
+    border: #f1faee 1px solid;
+    height: 118px;
+  }
+  .price {
+    background-color: #f1faee;
+    border: #f1faee 1px solid;
+    height: 73px;
+  }
+  .timings {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    vertical-align: middle;
+    line-height: 20px;
+  }
+  .flightname {
+    color: #1d3557;
+    font-size: 24px;
+    margin-top: 35px;
+  }
+  .duration {
+    vertical-align: middle;
+    line-height: 88px;
+    font-size: 17px;
+    color: #1d3557;
+  }
+  .start {
+    text-align: center;
+    color: #1d3557;
+    display: flex;
+    flex-direction: row;
+    height: 88px;
+    width: 113px;
+    font-size: 17px;
+    padding-left: 20px;
+  }
+  .end {
+    text-align: center;
+    color: #1d3557;
+    height: 88px;
+    width: 113px;
+    padding-top: 35px;
+    font-size: 17px;
+    padding-right: 20px;
+  }
+  .price {
+    padding-left: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    vertical-align: middle;
+    line-height: 73px;
+  }
+  .fare {
+    font-size: 36px;
+    color: #1d3557;
+  }
+  .cost {
+    font-size: 34px;
+    text-align: center;
+  }
+  #pps {
+    font-size: 14px;
+    position: relative;
+    bottom: 60px;
+  }
+  .book {
+    color: #f1faee;
+    background-color: #e63946;
+    height: 53px;
+    width: 247px;
+    border: solid #e63946 1px;
+    border-radius: 30px;
+    font-size: 32px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 53px;
+    position: relative;
+    top: 10px;
+  }
+.
+  

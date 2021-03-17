@@ -1,0 +1,124 @@
+.nav>a{
+    color: #F1FAEE;
+    padding: 18px;
+   }
+.nav{
+    padding: 14px 16px;
+    font-size: 17px;
+    float: right;
+    
+   
+}
+.text{
+    position: relative;
+    left: 40px;
+
+}
+.header{
+    background-color:#E63946 ;
+    height: 61px;
+    width: auto;
+   
+}
+.profile{
+    display: flex;
+   
+    padding-top:40px ;
+    padding-left: 61px;
+  
+}
+.image>img{
+    
+    height: 58px;
+    width: 59px;
+}
+.pic{
+    display: flex;
+    padding-left: 99px;
+    padding-right: 70px;
+    justify-content: space-between;
+}
+.image2>img{
+    height: 230px;
+    width: 230px;
+    border-radius: 1365px;
+}
+.button{
+    height: 30px;
+}
+.name{
+    padding-left: 160px;
+
+}
+
+.visited{
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    
+}
+.visited>h3{
+    font-size: xx-large;
+}
+.places{
+    display: flex;
+    justify-content: space-around;
+    background-color:#F1FAEE; 
+    height: 300px;
+
+}
+.places>img{
+    height: 200px;
+    position: relative;
+    top: 40px;
+}
+.massai{
+    display: flex;
+    justify-content: space-around;
+    background-color:#F1FAEE;
+}
+.massai>p{
+    color: black;
+}
+
+.footer{
+    background-color: #E63946;
+    height: 61px;
+    text-align: center;
+}
+.footer>p{
+position: relative;
+top: 40px;
+}
+.send{
+padding-left: 40px;
+padding-top: 40px;
+}
+.info{
+    display: flex;
+  
+}
+.info>button{
+    position: relative;
+    left: 50px;
+    height: 30px;
+}
+.info>input{
+    position: relative;
+    left: 15px;
+    height: 30px;
+
+}
+.qrcode{
+    position: relative;
+    left: 700px;
+    bottom: 20px;
+    
+}
+.qr>img{
+    height: 164px;
+    width: 158px;
+}
+.signout{
+    padding-left: 40px;
+}
