@@ -1,6 +1,6 @@
 # Anitas-Kitchen
 #### This is a website for Golf Nin-er Alfa as a group project for week 4 at Moringa School, 17th February 2021.
-#### By **Aspin Isoe** **Victor Kiteme** **Yussuf Adan** **Joseph Kabue**
+#### By **Aspin Isoe** , **Victor Kiteme** , **Yussuf Adan** , **Joseph Kabue**
 ## Description
 This is a website for a travel agency which allows users to book transportation, accomodation and plan together a trip with friends right on the same website.
 ## Prerequisites
