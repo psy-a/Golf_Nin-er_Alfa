@@ -126,6 +126,7 @@ header {
   }
   footer {
       background-color: #e63946;
+      margin-top: 50px;
   }
   .footerlinks {
       width: 70%;
@@ -136,7 +137,7 @@ header {
       align-items: center;
       flex-wrap: wrap;
       color: #f1faee;
-      font-size: 24px;
+      font-size: 18px;
   }
   .howitworks, .myaccount, .contactus, .aboutus, .faq {
       display: flex;
