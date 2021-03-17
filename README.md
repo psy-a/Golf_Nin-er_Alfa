@@ -1,4 +1,4 @@
-# Anitas-Kitchen
+# Golf Nin-er Alfa
 #### This is a website for Golf Nin-er Alfa as a group project for week 4 at Moringa School, 17th February 2021.
 #### By **Aspin Isoe** , **Victor Kiteme** , **Yussuf Adan** , **Joseph Kabue**
 ## Description
@@ -21,4 +21,4 @@ There are no known bugs at this moment.
 ### Live Site
 View [live](https://psy-a.github.io/Anitas-Kitchen/)
 ## Support and contact details
-For any questions, suggestions, contribution or assistance, reach me on psyfi488@gmail.com
+For any questions, suggestions, contribution or assistance, reach us on psyfi488@gmail.com
