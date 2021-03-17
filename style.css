@@ -41,7 +41,8 @@ body{
     }
     .paragraph{
         position: absolute;
-        color: white;
+        color:black;
+        font-weight: bold;
         font-family: sans-serif;
         column-fill: balance;
         tab-size: 50%;
@@ -54,20 +55,22 @@ body{
     .main{
         position: absolute;
         margin-top: 7%;
-        background: white;
         transform: translate(-50%,-50%);
         height: 40px;
-        border-radius: 40px;
+        border-radius: 0px;
         padding: 10px;
         margin-left: 10%;            
         }
-    .main button{
-        background:wheat;
-        border-radius: 40px;
-        border-radius: 40px;        
-    }
-        
-
+        .footer {
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: red;
+            color: white;
+            text-align: center;
+         }
+    
+   
     
 
 
