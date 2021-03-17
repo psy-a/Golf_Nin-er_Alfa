@@ -114,9 +114,13 @@ header {
       font-size: 48px;
       font-weight: 700;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-      text-align: right;
+      text-align: left;
   }
-  #mba {
+  #mba, #nku {
       padding-left: 20px;
       margin-top: 290px;
+  }
+  #nbo, #ksm {
+      padding-right: 20px;
+      margin-bottom: 290px;
   }
