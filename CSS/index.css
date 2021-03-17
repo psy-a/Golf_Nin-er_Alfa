@@ -124,3 +124,27 @@ header {
       padding-right: 20px;
       margin-bottom: 290px;
   }
+  footer {
+      background-color: #e63946;
+  }
+  .footerlinks {
+      width: 70%;
+      margin: auto;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      color: #f1faee;
+      font-size: 24px;
+  }
+  .howitworks, .myaccount, .contactus, .aboutus, .faq {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      padding-top: 20px;
+  }
+  #howitworks, #contactus, #myaccount, #aboutus, #faq {
+      margin: 5px;
+  }
