@@ -77,6 +77,14 @@ header {
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       text-align: left;
   }
+  #mba>a:link, #nbi>a:link, #ksm>a:link, #nku>a:link {
+      color: #1d3557;
+      text-decoration: none;
+  }
+  #mba>a:visited, #nbi>a:visited, #nku>a:visited, #ksm>a:visited {
+    color: #1d3557;
+    text-decoration: none;
+}
   .nairobi {
       background-image: url(../Images/nairobi.jpg);
       background-repeat: no-repeat;
