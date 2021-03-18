@@ -1,22 +1,10 @@
 
-.nav>a{
- color: #F1FAEE;
- padding: 18px;
-}
 .top{
     background-color:#E63946 ;
     height: 61px;
     
 }
 
-.nav{
-  
-   
-    padding: 14px 16px;
-    font-size: 17px;
-    float: right;
-       
-}
 .imagebg{
   background-image: url(images/trainflight.jpg);
   height: 609px;
@@ -219,5 +207,53 @@
     position: relative;
     top: 10px;
   }
-.
-  
+  footer {
+    background-color: #e63946;
+    margin-top: 50px;
+}
+.footerlinks {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #f1faee;
+    font-size: 18px;
+}
+.howitworks, .myaccount, .contactus, .aboutus, .faq {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+}
+#howitworks, #contactus, #myaccount, #aboutus, #faq {
+    margin: 5px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e63946;
+}
+
+.topnav a {
+  float: right;
+  color: #f1faee;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #a8dadc;
+  color: #f1faee;
+}
+
+.topnav a.active {
+  background-color: #457b9d;
+  color: #f1faee;
+}
