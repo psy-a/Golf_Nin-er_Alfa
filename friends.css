@@ -10,29 +10,34 @@ body {
     font-family: sans-serif;
 }
 
-nav {
-    background: #E63946;
-    height: 85px;
-    width: 100%;
-
-}
+.topnav {
+    overflow: hidden;
+    background-color: #e63946;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f1faee;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .topnav a:hover {
+    background-color: #a8dadc;
+    color: #f1faee;
+  }
+  
+  .topnav a.active {
+    background-color: #457b9d;
+    color: #f1faee;
+  }
 
 nav ul {
     float: right;
     margin-right: 20px;
-}
-
-nav ul li {
-    display: inline-block;
-    line-height: 80px;
-    margin: 0 10px;
-    margin-top: -15px;
-    mar
-}
-
-nav ul li a {
-    color: white;
-    font-size: 17px;
 }
 
 .text {
